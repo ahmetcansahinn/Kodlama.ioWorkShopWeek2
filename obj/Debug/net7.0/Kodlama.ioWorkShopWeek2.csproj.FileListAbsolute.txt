@@ -1,0 +1,15 @@
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/bin/Debug/net7.0/Kodlama.ioWorkShopWeek2
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/bin/Debug/net7.0/Kodlama.ioWorkShopWeek2.deps.json
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/bin/Debug/net7.0/Kodlama.ioWorkShopWeek2.runtimeconfig.json
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/bin/Debug/net7.0/Kodlama.ioWorkShopWeek2.dll
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/bin/Debug/net7.0/Kodlama.ioWorkShopWeek2.pdb
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.csproj.AssemblyReference.cache
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.AssemblyInfoInputs.cache
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.AssemblyInfo.cs
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.csproj.CoreCompileInputs.cache
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.dll
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/refint/Kodlama.ioWorkShopWeek2.dll
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.pdb
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/Kodlama.ioWorkShopWeek2.genruntimeconfig.cache
+/Users/cansahin/Projects/Kodlama.ioWorkShopWeek2/Kodlama.ioWorkShopWeek2/obj/Debug/net7.0/ref/Kodlama.ioWorkShopWeek2.dll
